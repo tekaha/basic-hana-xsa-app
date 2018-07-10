@@ -1,1 +1,1 @@
-# hana-app
+# basic-hana-xsa-app
